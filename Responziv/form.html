@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <title>Fotografický web</title>
+    <link rel="stylesheet" href="css/stylesheet.css">
+    <link rel="stylesheet" href="css/html_img.css">
+    <link rel="stylesheet" href="css/form.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+<section id="hero">
+    <div>
+        <h1 class="header">Fotografický web</h1>
+    </div>
+</section>
+<div id="menu">
+    <nav id="nav">
+        <a href="index.html">Naše fotografie</a>
+        <a href="form.html">Kontaktní formulář</a>
+    </nav>
+</div>
+
+
+<section id = "gal">
+    <div class="galery">
+        <h2><i>Přihlaště se na další termín focení v přírodě:</i></h2>
+    </div>>
+    <form class="fstyle" method="post" name="form" id="form" action="index.html">
+
+        <label for="jmeno" id="jmeno">Jméno a příjmení</label>
+        <input type="text" name="jmeno" value=""><br>
+
+        <label for="col" id="col">Oblíbená barva</label>
+        <input type="color" name="col" value="#66ff66">
+
+        <label for="narod" id="narod">Národnost:</label>
+        <select name="narod" size="3" id="narod">
+            <option value="cech">Čech</option>
+            <option value="slovak">Slovák</option>
+            <option value="jine">Jiná</option>
+        </select>
+
+        <label for="name" id="name">Uživatelské jméno</label>
+        <input type="text" name="name" value=""><br>
+
+        <label for="pass" id="pass">Heslo:</label>
+        <input type="password" name="pass">
+
+        <label for="TEXT" id="text">Napište váš názor:</label>
+        <textarea name="TEXT" rows="5" cols="30"></textarea>
+
+        <label for="foto" id="foto">Vlož fotku</label>
+        <input type="file" name="foto">
+
+
+
+        <label for="souhl" id="souhl">Souhlasím se zpracováním osobních údajů</label>
+        <input type="checkbox" name="souhlas">
+
+        <input type="submit" name="odes" value="Odeslat">
+        <input type="reset" name="re" value="Vymazat">
+    </form>
+</section>
+
+
+<footer>
+    <div>
+        <p id="foot">&copy; Tomáš Fráňa 2020</p>
+    </div>
+</footer>
+</body>
+</html>
