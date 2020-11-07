@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-07T15:52:01.741Z" agent="5.0 (Windows)" etag="qMoBz9vzKr6hZlXRLEqP" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-07T16:24:47.723Z" agent="5.0 (Windows)" etag="Jag2VtdZJb6Lnaxgn1PA" version="13.9.2" type="github">
   <diagram id="iqJ7o-cSy8KzaglTyA_u" name="Page-1">
     <mxGraphModel dx="981" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,6 +39,9 @@
         </mxCell>
         <mxCell id="x6bhsYx0L1Dtl3mkXtob-24" value="Zvládnout závěrečný test kapitoly" style="ellipse;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;sketch=0;strokeColor=#000000;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="640" y="230" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="x6bhsYx0L1Dtl3mkXtob-28" value="Správce" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;shadow=0;labelBackgroundColor=none;sketch=0;strokeColor=#000000;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="380" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
