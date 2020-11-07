@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2020-11-07T12:28:32.975Z" agent="5.0 (Windows)" version="13.9.2" etag="kxlEDb-BCgBWGBr8rfKI" type="github"><diagram id="iqJ7o-cSy8KzaglTyA_u">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-07T12:40:04.429Z" agent="5.0 (Windows)" etag="EtJrs52oXDjnP8NurD_G" version="13.9.2" type="github">
+  <diagram id="iqJ7o-cSy8KzaglTyA_u" name="Page-1">
+    <mxGraphModel dx="1422" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="x6bhsYx0L1Dtl3mkXtob-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x6bhsYx0L1Dtl3mkXtob-1" target="x6bhsYx0L1Dtl3mkXtob-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x6bhsYx0L1Dtl3mkXtob-1" value="Uživatel" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="110" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x6bhsYx0L1Dtl3mkXtob-8" value="Online kurz výuky angličtiny" style="shape=umlFrame;width=180;height=30;labelBackgroundColor=none;labelBorderColor=none;html=1;swimlaneFillColor=none;sketch=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="40" width="560" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="x6bhsYx0L1Dtl3mkXtob-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="x6bhsYx0L1Dtl3mkXtob-13" target="x6bhsYx0L1Dtl3mkXtob-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x6bhsYx0L1Dtl3mkXtob-13" value="Absolvovat kurz" style="ellipse;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;sketch=0;strokeColor=#000000;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="80" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="x6bhsYx0L1Dtl3mkXtob-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="x6bhsYx0L1Dtl3mkXtob-14" target="x6bhsYx0L1Dtl3mkXtob-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x6bhsYx0L1Dtl3mkXtob-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="x6bhsYx0L1Dtl3mkXtob-14" target="x6bhsYx0L1Dtl3mkXtob-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x6bhsYx0L1Dtl3mkXtob-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="x6bhsYx0L1Dtl3mkXtob-14" target="x6bhsYx0L1Dtl3mkXtob-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x6bhsYx0L1Dtl3mkXtob-14" value="Absolvovat kapitolu" style="ellipse;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;sketch=0;strokeColor=#000000;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="80" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="x6bhsYx0L1Dtl3mkXtob-22" value="Vypracovat cvičení" style="ellipse;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;sketch=0;strokeColor=#000000;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="640" y="50" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="x6bhsYx0L1Dtl3mkXtob-23" value="Naučit se nová slovíčka" style="ellipse;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;sketch=0;strokeColor=#000000;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="640" y="140" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="x6bhsYx0L1Dtl3mkXtob-24" value="Zvládnout závěrečný test kapitoly" style="ellipse;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;sketch=0;strokeColor=#000000;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="640" y="230" width="140" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
