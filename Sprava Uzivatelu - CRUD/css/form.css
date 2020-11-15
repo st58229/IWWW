@@ -1,0 +1,18 @@
+input, select, textarea {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+
+label{
+padding-right: 20px;
+}
+
+.fstyle{
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: auto;
+}
