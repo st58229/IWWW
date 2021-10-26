@@ -1,0 +1,2 @@
+#n:CreateNewUser
+#i:(varchar(50),varchar(255),varchar(50),varchar(50),varchar(50),varchar(5),int,varchar(50),smallint,tinyint,varchar(50),varchar(3))

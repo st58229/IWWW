@@ -1,0 +1,47 @@
+.platba
+{
+    float: left;
+    width: 50%;
+    border-width: 5px;
+    border-color: black;
+
+
+}
+
+.platba h2
+{
+    text-align: center;
+}
+
+.detailObjednavka
+{
+    float: right;
+    width: 50%;
+    border-width: 5px;
+    border-color: black;
+    background-color: #cccccc;
+}
+
+#detailPay
+{
+    float: right;
+    margin-right: 50%;
+    margin-top: 10px;
+    font-size: large;
+}
+
+#items
+{
+    float: left;
+}
+
+#prices
+{
+    float: right;
+}
+
+#total
+{
+    float: top;
+    margin-top: 20px;
+}

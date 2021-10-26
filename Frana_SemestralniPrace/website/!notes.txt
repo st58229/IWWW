@@ -1,0 +1,8 @@
+Návrh designu na: https://www.figma.com/file/SLXIGj6iWxOBWJnRGmP89n/Semestr%C3%A1ln%C3%AD-pr%C3%A1ce-IWWW-Bakal%C3%A1%C5%99sk%C3%A1-pr%C3%A1ce?node-id=0%3A1
+
+Zdroj k meunu: https://www.w3jar.com/editor/?fname=css-responsive-navigation-menu
+
+Potřeba dodělat:
+
+Oprava zobrazení první stránky
+Desing dodělat -> tak nějak všude

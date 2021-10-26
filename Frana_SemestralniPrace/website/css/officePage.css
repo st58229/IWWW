@@ -1,0 +1,27 @@
+#waitPayTable th
+{
+    padding: 10px;
+    border-bottom: 4px solid #ddd;
+}
+
+#waitPayTable td
+{
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    text-align: center;
+}
+
+#waitPayTable tr
+{
+    margin: 10px;
+}
+
+#waitPayTable
+{
+    width: 100%;
+}
+
+#lgout
+{
+    text-align: center;
+}

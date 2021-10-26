@@ -1,0 +1,27 @@
+#detailObjednavky table th
+{
+    padding: 10px;
+    border-bottom: 4px solid #ddd;
+}
+
+#detailObjednavky table td
+{
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    text-align: center;
+}
+
+#detailObjednavky table tr
+{
+    margin: 10px;
+}
+
+#detailObjednavky a
+{
+    text-decoration: none;
+}
+
+#detailObjednavky table
+{
+    width: 100%;
+}

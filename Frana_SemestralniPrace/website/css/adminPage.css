@@ -1,0 +1,39 @@
+ul {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+ul li a {
+    text-decoration: none;
+    color: #999999;
+    font-size: 24px;
+    display: block;
+    height: 100px;
+    line-height: 100px;
+    padding: 0 10px;
+}
+
+ul li a:hover {
+    color: #ffffff;
+    background-color: rgba(23, 23, 23, 0.9);
+}
+
+ul .close {
+    display: none;
+    text-align: right;
+    padding: 10px;
+}
+
+ul .close span {
+    font-size: 50px;
+    display: inline-block;
+    border: 1px solid #cccccc;
+    padding: 0 10px;
+    cursor: pointer;
+}

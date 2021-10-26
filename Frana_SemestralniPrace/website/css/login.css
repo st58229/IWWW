@@ -1,0 +1,24 @@
+.wrapper
+{
+    background-color: #cccccc;
+    max-width: max-content;
+    position: center;
+}
+
+.form-group
+{
+    width: 100%;
+    padding: 10px 10px;
+    margin: 2px 0;
+    box-sizing: border-box;
+}
+.wrapper h2
+{
+    text-align: center;
+}
+
+.wrapper input
+{
+    align-content: center;
+    width: 100%;
+}

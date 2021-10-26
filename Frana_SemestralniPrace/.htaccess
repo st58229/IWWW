@@ -1,0 +1,6 @@
+#    soubor .htaccess kterej zakáže přístup přes prohlížeč do dané složky:
+#
+#    Order Allow,Deny
+#    Deny from all
+
+ErrorDocument 404 /404.php

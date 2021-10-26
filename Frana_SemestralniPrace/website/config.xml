@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+
+  <bankPrefix>115</bankPrefix>
+  <accountNumber>9728000207</accountNumber>>
+  <bankCode>0100</bankCode>
+  <messageDefault>Objednávka na portálu EZ kurzy.</messageDefault>
+
+</config>
